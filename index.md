@@ -26,3 +26,6 @@ Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader
 ### August 30, 2017
 
 Welcome!
+
+## September 25, 2017
+Created [Gantt Project Proposal](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/RamyaRadhakrishnakumar.mpp)
