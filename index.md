@@ -30,3 +30,4 @@ Welcome!
 Created [Gantt Project Proposal](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/RamyaRadhakrishnakumar.mpp)
 ## October 2, 2017
 Created [Budget]
+(https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
