@@ -1,15 +1,8 @@
----
-tagline: Website with GitHub Pages
-description: Simple website with GitHub Pages
-layout: page
-title: simple site
----
-
 
 
 ### August 30, 2017
 
-Welcome!
+Welcome to my blog :)
 
 ### September 6, 2017
 
