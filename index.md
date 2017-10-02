@@ -8,10 +8,6 @@ Welcome to my blog :)
 
 Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
 
-### September 13, 2017
-
-Created [proposal](https://github.com/six0four/StudentSenseHat/blob/master/documentation/ProposalContentStudentNameRev02.pdf).
-
 ## September 25, 2017
 Created [Gantt Project Proposal](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/RamyaRadhakrishnakumar.mpp)
 
