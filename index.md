@@ -5,8 +5,6 @@ layout: page
 title: simple site
 ---
 
-Example Blog.
--------------
 
 
 ### August 30, 2017
