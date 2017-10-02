@@ -6,7 +6,7 @@ Welcome to my blog :)
 
 ### September 6, 2017
 
-Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). Also generated a quiz.
+Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
 
 ### September 13, 2017
 
