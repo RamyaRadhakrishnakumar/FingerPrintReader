@@ -1,19 +1,21 @@
 
+## October 2, 2017
+Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
 
-### August 30, 2017
-
-Welcome to my blog :)
-
-### September 6, 2017
-
-Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
+### September 20, 2017
+Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml). 
 
 ## September 25, 2017
 Created [Gantt Project Proposal](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/RamyaRadhakrishnakumar.mpp)
 
-### September 20, 2017
+### September 6, 2017
+Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
 
-Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/master/documentation/Week3RubricforProjectSchedule.xml).  
+### August 30, 2017
+Welcome to my blog :)
 
-## October 2, 2017
-Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
+
+
+
+
+
