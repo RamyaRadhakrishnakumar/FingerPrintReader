@@ -1,4 +1,7 @@
 
+## October 30, 2017
+Uploaded [Picture showint the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Image-1.jpg)
+
 ## October 2, 2017
 Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
 
