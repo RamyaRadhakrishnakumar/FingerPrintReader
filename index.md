@@ -1,5 +1,5 @@
 ## December 4, 2017
-Uploaded [A video showing the LED blinking]()
+Uploaded [A video showing the LED blinking](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5349.MOV)
 
 ## December 4, 2017
 Uploaded [A picture of PCB along with the 3 sensor readers mounted on the raspberry pi](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG)
