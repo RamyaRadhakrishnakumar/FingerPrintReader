@@ -1,9 +1,9 @@
 # December 4, 2017
-**1.Uploaded [A video showing the readings encountered on the output screen](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
+1.Uploaded [A video showing the readings encountered on the output screen](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
 
-**2.Uploaded [A video showing the LED blinking](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5349.MOV)
+2.Uploaded [A video showing the LED blinking](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5349.MOV)
 
-**3.![Image alt A picture of PCB along with the 3 sensor readers mounted on the raspberry pi](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG)
+3.![Image alt A picture of PCB along with the 3 sensor readers mounted on the raspberry pi](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG)
 
 # December 3, 2017
 ![Picture showing the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Image-1.jpg)height=200 width=200;
