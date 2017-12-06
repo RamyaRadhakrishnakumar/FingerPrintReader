@@ -24,7 +24,7 @@ Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/mast
 Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
 
 ### August 30, 2017
-**Welcome to my blog on FingerPrint sensors:)**
+**Welcome to my blog on FingerPrint sensor:)**
 
 
 
