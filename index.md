@@ -32,7 +32,7 @@ Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader
 3. Put together the video,progress report and the hardware together.
 4. Demo the project and get remarks from the peer.
 5. Depending on the review make final changes.
-
+6. A powerpoint presentation on the project.
 
 
 
