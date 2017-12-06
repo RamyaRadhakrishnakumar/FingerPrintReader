@@ -1,3 +1,5 @@
+# *This is a summary of my progress in the Project*
+
 # December 4, 2017
 1.Uploaded [A video showing the readings encountered on the output screen](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
 
