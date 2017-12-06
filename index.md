@@ -6,7 +6,7 @@
 3.![Image alt A picture of PCB along with the 3 sensor readers mounted on the raspberry pi](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG)
 
 ## December 3, 2017
-Uploaded [Picture showing the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Image-1.jpg)
+!Uploaded [Picture showing the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Image-1.jpg)
 
 ## October 2, 2017
 Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
