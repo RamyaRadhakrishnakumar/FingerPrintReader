@@ -7,7 +7,7 @@
 
 3.![Image alt A picture of PCB along with the 3 sensor readers mounted on the raspberry pi](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG)
 
-# December 3, 2017
+## December 3, 2017
 Confirming that i did a good job in soldering my PCB by making the LED lightup.
 ![Picture showing the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg)
 
