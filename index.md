@@ -1,5 +1,5 @@
 ## December 4, 2017
-Uploaded [A video](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
+Uploaded [A video showing the readings encountered on the output screen](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
 
 ## December 4, 2017
 Uploaded [A video showing the LED blinking](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5349.MOV)
