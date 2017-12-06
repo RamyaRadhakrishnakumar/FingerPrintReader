@@ -26,6 +26,12 @@ Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader
 ### August 30, 2017
 **Welcome to my blog on FingerPrint sensor:)**
 
+###Things to be worked on
+-Group placard and a 30sec script
+-Make my finger print sensor function on my PCB
+-Put together the video,progress report and the hardware together
+-Demo the project and get remarks from the peer
+-Depending on the review make final changes.
 
 
 
