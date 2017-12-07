@@ -10,7 +10,7 @@
 
 ## December 3, 2017
 Confirming that i did a good job in soldering my PCB by making the LED lightup.
-![Image alt](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg?raw=yes)
+![Image alt1](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg?raw=yes)
 
 ## October 2, 2017
 Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
