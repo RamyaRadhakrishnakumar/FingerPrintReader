@@ -6,11 +6,11 @@
 2.Uploaded [A video showing the LED blinking](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5349.MOV)
 
 3.A picture of PCB along with the 3 sensor readers mounted on the raspberry pi 
-![Image alt ](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG?raw=yes)
+![Image alt](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5351.JPG?raw=yes)
 
 ## December 3, 2017
 Confirming that i did a good job in soldering my PCB by making the LED lightup.
-![Picture showing the LED light up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg)
+![Image alt](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg?raw=yes)
 
 ## October 2, 2017
 Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
