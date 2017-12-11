@@ -12,6 +12,10 @@
 Confirming that i did a good job in soldering my PCB by making the LED lightup.
 ![Image alt1](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5380.jpg?raw=yes)
 
+## October 20, 2017
+Sensor has arrived!!!
+![Image alt2](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5410.JPG?raw=yes)
+
 ## October 2, 2017
 Created [Budget](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/hardwarebudget.xlsx)
 
