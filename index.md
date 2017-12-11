@@ -6,7 +6,7 @@
 E-money transfer is a convenient way to send, receive or pay bills in store using a simple QR code generator. I’m using a finger print sensor in collaboration with the software app. The sensor is used as a safety measure to prevent loss of information. In order to access your account you need to login using your login credentials including the finger print pattern that is registered along with your bank account in the E-money application. Basically the finger print being registered with the sensor is going to display “access granted” and if the finger print does not match then it’s going to display “access denied”.
 
 2. **placard**
-(https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/placard.pub)
+[Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/placard.pub)
 
 # December 4, 2017
 1.Uploaded [A video showing the readings encountered on the output screen](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/IMG_5352.MOV)
