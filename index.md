@@ -1,7 +1,7 @@
 # ***A summary of my progress in the Project***
 
 # December 18, 2017
-**30-second video**
+**30-second build video**
 [Click here for the video](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/My%20Movie.mp4)
 
 # December 11, 2017
