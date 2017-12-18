@@ -2,7 +2,7 @@
 
 # December 18, 2017
 **30-second video**
-[Click here for the video]()
+[Click here for the video](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/My%20Movie.mp4)
 
 # December 11, 2017
 1. **30-second script**
