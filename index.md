@@ -1,5 +1,9 @@
 # ***A summary of my progress in the Project***
 
+# December 18, 2017
+**30-second video**
+[Click here for the video]()
+
 # December 11, 2017
 1. **30-second script**
 
@@ -38,7 +42,7 @@ Created [project schedule](https://github.com/six0four/StudentSenseHat/blob/mast
 Created [repository](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader.git). 
 
 ### August 30, 2017
-**Welcome to my blog on FingerPrint sensor:)**
+**Welcome to my blog on FingerPrint sensor:) **
 ***
 ***
 ### Things to be worked on down the lane
