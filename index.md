@@ -1,7 +1,7 @@
 # ***A summary of my progress in the Project***
 # January 8,2018]
 **Progress report**
-
+[Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Progress%20report%20as%20of%20Jan%208th%202018.docx)
 
 # December 18, 2017
 **30-second build video**
