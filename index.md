@@ -1,4 +1,7 @@
 # ***A summary of my progress in the Project***
+# January 8,2018]
+**Progress report**
+
 
 # December 18, 2017
 **30-second build video**
