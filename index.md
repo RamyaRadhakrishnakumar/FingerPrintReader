@@ -2,7 +2,7 @@
 # January 15,2018]
 **Powerpoint Presentation**
 [Click the link]
-()
+(https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/RamyaRadhakrishnakumar.pptx)
 
 # January 8,2018]
 **Progress report**
