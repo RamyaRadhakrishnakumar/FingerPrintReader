@@ -1,4 +1,9 @@
 # ***A summary of my progress in the Project***
+# January 15,2018]
+**Powerpoint Presentation**
+[Click the link]
+()
+
 # January 8,2018]
 **Progress report**
 [Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Progress%20report%20as%20of%20Jan%208th%202018.docx)
