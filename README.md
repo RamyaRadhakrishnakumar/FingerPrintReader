@@ -44,15 +44,13 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
 
 1. Connect the fingerprint to the USB to TTl convertor as follows:
 
-![Connection]()
-
 2. This is the pinout of the USB to TTL.
 
 ![pinout of the ttl converter](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/TTL%20pinout.png)
 
 3. The pinout of the fingerprint sensor.
 
-![pinout of the fingerprint sensor]()
+![pinout of the fingerprint sensor](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/pinout%20sensor.png)
 
 4. Connections using the jumper wires: 
  
