@@ -48,7 +48,7 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
 
 2. This is the pinout of the USB to TTL.
 
-![pinout of the ttl converter]()
+![pinout of the ttl converter](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/TTL%20pinout.png)
 
 3. The pinout of the fingerprint sensor.
 
