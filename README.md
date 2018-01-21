@@ -37,7 +37,6 @@ The Jumper wires costed me $5.99
 ### Time Commitment
 
 The time commitment was a cake walk since I created a schedule during the start of my semester.
-![Schedule]()
 It really was one reason I organized the works properly and was able to achieve the milestones as intented.
 Setting up the hardware must take around 20 minutes provided if you have the equipments and have previous knowledge of the hardware. I took roughly 1 week to set it up. I used python code to make the sensor work. The testing should take around 10 minutes, but I actually took time to read the code and understand what was actually in the code. I took 3 days to work on understanding the code and then successfully executed.
 
