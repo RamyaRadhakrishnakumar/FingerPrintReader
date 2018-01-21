@@ -4,12 +4,14 @@
 ## Table of Contents
 1. [Correct Web template](#correct-web-template)
 2. [Introduction](#introduction)
-3. [Budget](#budget)
-4. [Time Commitment](#time-commitment)
-5. [Mechanical Assembly of my Fingerprint sensor](#mechanical-assembly-of-my-fingerprint-sensor)
-6. [Power up](#power-up)
-7. [Test Code](#test-code)
-
+3. [Invoice/Bill](#invoice-bill)
+4. [Budget](#budget)
+5. [Time Commitment](#time-commitment)
+6. [Mechanical Assembly of my Fingerprint sensor](#mechanical-assembly-of-my-fingerprint-sensor)
+7. [Power up](#power-up)
+8. [Installation of the raspberry pi fingerprint library](#installation-of-the-raspberry-pi-fingerprint-library)
+9. [Unit Testing](#unit-testing)
+10.[Production Testing](#production-testing)
 
 
 ### Correct Web template
@@ -103,9 +105,13 @@ python2 /usr/share/doc/python-fingerprint/examples/example_search.py
 4. I then put my finger on it again. If the fingerprint on the Raspberry Pi is detected, a message like this appears:
 
 Currently stored templates: 2
+
 Waiting for finger...
+
 Found template at position #1
+
 The accuracy score is: 90
+
 SHA-2 hash of template: 3aa1b01149abf0a7ad0d7803eaba65c22ba084009700c3c7f5f4ecc38f020851
 
 ### Production testing
