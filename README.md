@@ -10,7 +10,7 @@
 6. [Power up](#power-up)
 7. [Test Code](#test-code)
 
-![Image of Prototype]()
+
 
 ### Correct Web template
 
@@ -20,10 +20,12 @@ I created a web template https://github.com/RamyaRadhakrishnakumar/FingerPrintRe
 
 E-money transfer is a convenient way to send, receive or pay bills in store using a simple QR code generator. I’m using a finger print sensor in collaboration with the software app. The sensor is used as a safety measure to prevent loss of information. In order to access your account you need to login using your login credentials including the finger print pattern that is registered along with your bank account in the E-money application. Basically the finger print lets you enroll, delete, search or generate a picture of your finger. To this I used a raspberry pi. 
 
+![System diagram]()
+
 ### Invoice/Bill:
 
 I ordered the sensor from Adafruit website. I ordered my pi, USB to TTL and jumper wires from Amazon. It roughly took a week to reach.
-Link--
+![Invoice]()
 
 ### Budget
 
@@ -43,9 +45,15 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
 
 1. Connect the fingerprint to the USB to TTl convertor as follows:
 
+![Connection]()
+
 2. This is the pinout of the USB to TTL.
 
+![pinout of the ttl converter]()
+
 3. The pinout of the fingerprint sensor.
+
+![pinout of the fingerprint sensor]()
 
 4. Connections using the jumper wires: 
  
@@ -56,12 +64,13 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
   3.Connect the TX of the sensor to the RX of the TTL converter.
  
   4.Connect the VCC of the sensor to the VCC of the TTL converter.
- 
+
 5.Then connect the sensor through the USB port of the Raspberry Pi.
 
 ### Power up
 
 So once I assembled the hardware part, I then connected my mouse and keyboard along with the charger cable to my pi and then turned it ON. Also I need not connect the ethernet cable since I already configured the pi to connect it to the Wi-Fi. I was able to see the sensor light up. You will be able to achieve this if your hardware connection is perfect.
+![power up]()
 
 ### Installation of the Raspberry Pi Fingerprint Library
 
@@ -91,7 +100,7 @@ Now the finger is given an ID and it is enrolled.
 
 python2 /usr/share/doc/python-fingerprint/examples/example_search.py
 
-3.I then put my finger on it again. If the fingerprint on the Raspberry Pi is detected, a message like this appears:
+4. I then put my finger on it again. If the fingerprint on the Raspberry Pi is detected, a message like this appears:
 
 Currently stored templates: 2
 Waiting for finger...
