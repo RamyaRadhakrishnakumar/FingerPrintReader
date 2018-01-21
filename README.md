@@ -63,13 +63,14 @@ The more interesting components consist of:
 ![Prototype Lab](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/IMG_20170616_184112490_HDR.jpg)
 3. The pinout of the fingerprint sensor.
 4. Connections using the jumper wires: 
+ 
  1.Connect the GN of the sensor to the GN of the TTL converter.
  
- 2.Connect the RX of the sensor to the TX of the TTL converter.
+  2.Connect the RX of the sensor to the TX of the TTL converter.
  
- 3.Connect the TX of the sensor to the RX of the TTL converter.
+  3.Connect the TX of the sensor to the RX of the TTL converter.
  
- 4.Connect the VCC of the sensor to the VCC of the TTL converter.
+  4.Connect the VCC of the sensor to the VCC of the TTL converter.
  
 5.Then connect the sensor through the USB port of the Raspberry Pi.
 
