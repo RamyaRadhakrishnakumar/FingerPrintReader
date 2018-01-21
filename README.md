@@ -18,33 +18,35 @@
 
 ### Introduction
 
-This stackable interface board for the Broadcom development platform also known as the Raspberry Pi is of a hand solderable 
-design meant to be compatible with the devices in the Humber Parts Crib which require more skills and techniques to assemble.
-It has a bidirectional LED and three I2C device sockets. The bidirectional LED allows the hardware equivalent of "Hello World"
-to be achieved by blinking the LED. I2C is a very common hardware peripheral bus and is designed to have an analog breakout
-board, a Real Time Clock module, and an integrated environmental sensor module connected. It takes most individuals about a
-week of effort to complete these build instructions directed towards technologically inclined students especially given other
-commitments. Be aware that the image creation steps take at least 3 hours alone.
+
+
+
 
 ### Invoice/Bill:
 Link--
 
 ### Budget
 
+The Fingerprint sensor(751) costed me $64.00. 
+The Raspberry pi costed me $99.99.
+The USB to TTL convertor costed me $6.99.
+The Jumper wires costed me $5.99
 
 ### Time Commitment
 
 The time commitment was a cake walk since I created a schedule during the start of my semester.
 link--
 It really was one reason I organized the works properly and was able to achieve the milestones as intented.
+Setting up the hardware must take around 20 minutes and testing it should be around 10 minutes.
 
 ### Mechanical Assembly of my Fingerprint sensor 
 
 1. Connect the fingerprint to the USB to TTl convertor as follows:
-(https://radiojove.gsfc.nasa.gov/telescope/soldering.htm) and can comment on them. (If you are into materials, look up tin pest and tin whiskers.)
+
 2. This is the pinout of the USB to TTL.
-![Prototype Lab](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/IMG_20170616_184112490_HDR.jpg)
+
 3. The pinout of the fingerprint sensor.
+
 4. Connections using the jumper wires: 
  
  1.Connect the GN of the sensor to the GN of the TTL converter.
@@ -58,7 +60,7 @@ It really was one reason I organized the works properly and was able to achieve 
 5.Then connect the sensor through the USB port of the Raspberry Pi.
 
 ### Power up
-
+So once I assembled the hardware part, I then connected my mouse and keyboard along with the charger cable to my pi and then turned it ON. Also I need not connect the ethernet cable since I already configured the pi to connect it to the Wi-Fi. I was able to see the sensor light up. You will be able to achieve this if your hardware connection is perfect.
 
 ### Test Code
 
