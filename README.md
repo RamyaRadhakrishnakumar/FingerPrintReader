@@ -11,7 +11,7 @@
 7. [Power up](#power-up)
 8. [Installation of the raspberry pi fingerprint library](#installation-of-the-raspberry-pi-fingerprint-library)
 9. [Unit Testing](#unit-testing)
-10.[Production Testing](#production-testing)
+10. [Production Testing](#production-testing)
 
 
 ### Correct Web template
@@ -58,15 +58,15 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
 
 4. Connections using the jumper wires: 
  
-  1.Connect the GN of the sensor to the GN of the TTL converter.
+  1. Connect the GN of the sensor to the GN of the TTL converter.
  
-  2.Connect the RX of the sensor to the TX of the TTL converter.
+  2. Connect the RX of the sensor to the TX of the TTL converter.
  
-  3.Connect the TX of the sensor to the RX of the TTL converter.
+  3. Connect the TX of the sensor to the RX of the TTL converter.
  
-  4.Connect the VCC of the sensor to the VCC of the TTL converter.
+  4. Connect the VCC of the sensor to the VCC of the TTL converter.
 
-5.Then connect the sensor through the USB port of the Raspberry Pi.
+5. Then connect the sensor through the USB port of the Raspberry Pi.
 
 ### Power up
 
@@ -90,11 +90,11 @@ Now the packages are installed and ready for testing.
 
 ### Unit Testing 
 
-1.As mentioned above the package has files for storing a new fingerprint, reading out and deleting stored fingerprints. Now i tested the enrolling option by issueing the following:
+1. As mentioned above the package has files for storing a new fingerprint, reading out and deleting stored fingerprints. Now i tested the enrolling option by issueing the following:
 
 python2 /usr/share/doc/python-fingerprint/examples/example_enroll.py
 
-2.The terminal asks you to place the finger you want to enroll on the sensor, wait for the message "remove finger" and then again "place the same finger". 
+2. The terminal asks you to place the finger you want to enroll on the sensor, wait for the message "remove finger" and then again "place the same finger". 
 
 Now the finger is given an ID and it is enrolled.
 
