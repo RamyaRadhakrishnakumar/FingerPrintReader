@@ -25,6 +25,8 @@ E-money transfer is a convenient way to send, receive or pay bills in store usin
 ### Invoice/Bill:
 
 I ordered the sensor from Adafruit website. I ordered my pi, USB to TTL and jumper wires from Amazon. It roughly took a week to reach.
+
+
 ![Invoice](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/Invoice.png)
 
 ### Budget
@@ -67,7 +69,7 @@ Setting up the hardware must take around 20 minutes provided if you have the equ
 ### Power up
 
 So once I assembled the hardware part, I then connected my mouse and keyboard along with the charger cable to my pi and then turned it ON. Also I need not connect the ethernet cable since I already configured the pi to connect it to the Wi-Fi. I was able to see the sensor light up. You will be able to achieve this if your hardware connection is perfect.
-![power up]()
+![power up](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/lightup.JPG)
 
 ### Installation of the Raspberry Pi Fingerprint Library
 
@@ -91,6 +93,7 @@ Now the packages are installed and ready for testing.
 python2 /usr/share/doc/python-fingerprint/examples/example_enroll.py
 
 2.The terminal asks you to place the finger you want to enroll on the sensor, wait for the message "remove finger" and then again "place the same finger". 
+
 Now the finger is given an ID and it is enrolled.
 
 3. Now I tested whether my finger is recognized. So I issued the following script:
