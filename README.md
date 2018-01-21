@@ -34,8 +34,11 @@ I ordered the sensor from Adafruit website. I ordered my pi, USB to TTL and jump
 ### Budget
 
 The Fingerprint sensor(751) costed me $64.00. 
+
 The Raspberry pi costed me $99.99.
+
 The USB to TTL convertor costed me $6.99.
+
 The Jumper wires costed me $5.99
 
 ### Time Commitment
@@ -79,10 +82,13 @@ We need to go to the root for some commands of the installation. I then started 
 sudo bash
 
 Now I added the necessary package sources:
+
 wget -O - http://apt.pm-codeworks.de/pm-codeworks.de.gpg | apt-key add -
+
 wget http://apt.pm-codeworks.de/pm-codeworks.list -P /etc/apt/sources.list.d/
 
 I then had to update the available packages and install the Python library as follows:
+
 apt-get update
 apt-get install python-fingerprint --yes
 
