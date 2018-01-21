@@ -26,34 +26,17 @@ board, a Real Time Clock module, and an integrated environmental sensor module c
 week of effort to complete these build instructions directed towards technologically inclined students especially given other
 commitments. Be aware that the image creation steps take at least 3 hours alone.
 
+### Invoice/Bill:
+Link--
+
 ### Budget
 
 
 ### Time Commitment
 
-NOTE: This mostly through hole design is pin compatible with original mostly surface mount sense hat design which is on the devices in the Humber Parts Crib. The Fall 2017 design is in [Fritzing](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV06.fzz) while the Fall 2016 design was in [Eagle](https://github.com/vladporcila/ModularSenseHatStripped), if curious, take a look at using the [Sparkfun Cam file](https://learn.sparkfun.com/tutorials/using-eagle-board-layout/generating-gerbers). Once you have recieved your PCB the kit looks something like the following photo.
-
-![Kit Bag](https://raw.githubusercontent.com/six0four/StudentSenseHat/master/images/kitbag.jpg)
-
-For a list of materials please download the [Excel](https://github.com/six0four/StudentSenseHat/blob/master/electronics/StudentSenseHatV05_bom.xlsx) file in the repository.
-
-The more interesting components consist of:
-
-1.  1 bidirectional LED
-
-2.  DDS3231S IC RTC Clk/Calendar I2C 16-SOIC
-    <http://www.amazon.com/Donop-DS3231-AT24C32-precision-Arduino/dp/B00HCB7VYS>
-
-3.  4 channel 8 bit a/d, 1 channel d/a PCF8591T I2C-Bus D/A CONVERTER
-    <http://www.modmypi.com/raspberry-pi/breakout-boards/seeed/raspberry-pi-adda-expansion-board>
-    https://www.creatroninc.com/product/pcf8591-8-bit-i2c-adc-dac/
-
-4.  Temperature, humidity, pressure sensor. SparkFun Atmospheric Sensor Breakout
-
-    -   BME280 <https://www.sparkfun.com/products/13676>
-
-5.  One optional surface mount resistor.
-
+The time commitment was a cake walk since I created a schedule during the start of my semester.
+link--
+It really was one reason I organized the works properly and was able to achieve the milestones as intented.
 
 ### Mechanical Assembly of my Fingerprint sensor 
 
