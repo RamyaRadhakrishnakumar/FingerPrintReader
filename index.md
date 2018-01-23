@@ -1,8 +1,8 @@
 # A summary of my progress in the Project
 
 # January 23,2018
-**Readme.md**
-[Click the link]()
+**README.md**
+[Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/README.md)
 
 # January 15,2018
 **Powerpoint Presentation**
