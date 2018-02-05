@@ -1,5 +1,10 @@
 # A summary of my progress in the Project
 
+# February 5,2018
+**Proposal**
+[Click the link]()
+
+
 # January 23,2018
 **README.md**
 [Click the link](https://github.com/RamyaRadhakrishnakumar/FingerPrintReader/blob/master/README.md)
